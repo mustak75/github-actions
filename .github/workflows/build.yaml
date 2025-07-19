@@ -64,5 +64,4 @@ jobs:
         mvn deploy -DmuleDeploy \
          -Dmule.artifact=$artifactName \
          -Danypoint.username="$USERNAME" \
-         -Danypoint.password="$PASSWORD" 
-view rawbasic-build.yml hosted with ❤ by GitHub
+         -Danypoint.password="$PASSWORD"
